@@ -35,3 +35,7 @@
 ![icarusw-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=icarusw-code&show_icons=true&theme=tokyonight)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cordelia357)](https://solved.ac/{handle})
+
+### Github Streak
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=icarusw-code&theme=blueberry)](https://git.io/streak-stats)
