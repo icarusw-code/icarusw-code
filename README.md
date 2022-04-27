@@ -33,3 +33,5 @@
 </p>
 
 ![icarusw-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=icarusw-code&show_icons=true&theme=tokyonight)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cordelia357)](https://solved.ac/{handle})
