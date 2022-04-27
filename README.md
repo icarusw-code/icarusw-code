@@ -48,17 +48,41 @@ Extra
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
 <br/><br/>
 <br/><br/>
-
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
+  
+🏛소속(Experiences)🏛
+---
+<p>
   <a href="https://velog.io/@icarus_w"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@icarus_w"/>
   <a href="mailto:icarusw16@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=icarusw16@gmail.com"/></a>
 </p>
 
-![icarusw-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=icarusw-code&show_icons=true&theme=tokyonight)
-
+- 홍익대학교 컴퓨터공학과
+  - 🥇2017 한국소프트웨어종합학술대회 학부생/주니어 논문경진대회 장려상(가속도센서를 이용한 실시간 위치기반 안심귀가 서비스)
+<br/><br/>
+---
+프로젝트(Portfolios)
+  
+⏳ 진행중
+- DailyFootball (축구 경기 정보 제공, 사용자들이 직접 평점을 입력할 수 있는 커뮤니티 서비스)
+  - README : 
+  - 컨셉 : ReactQuery 사용으로 축구 경기 API를 가공하여 데이터 제공
+  - 기술 : Spring, JPA, Querydsl, React, ReactQuery, MariaDB, Docker, Jenkins
+  
+<br/><br/>
+Extra
+---
+알고리즘<br/><br/>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cordelia357)](https://solved.ac/{handle})
+<br/><br/>
 
-### Github Streak
-
+Github Stats<br/><br/>
+![icarusw-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=icarusw-code&show_icons=true&theme=tokyonight)
+<br/><br/>
+Github Streak<br/><br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=icarusw-code&theme=blueberry)](https://git.io/streak-stats)
+
+
+
+
+
+
