@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9980FA&height=300&fontColor=ffffff&section=header&text=Hi!%20I'm%20SeongJin%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9980FA&height=250&section=header&text=Growing%20Developer%&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=SeongJin%20Choi%20&descAlign=85)
 
 <h3 align="center">🌳 Tech Stack 🌳</h3>
 <p align="center">
