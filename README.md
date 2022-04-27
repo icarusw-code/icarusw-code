@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20SeongJin%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9980FA&height=300&fontColor=ffffff&section=header&text=Hi!%20I'm%20SeongJin%20&fontSize=90)
 
 <h3 align="center">🌳 Tech Stack 🌳</h3>
 <p align="center">
