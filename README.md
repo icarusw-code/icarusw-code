@@ -81,8 +81,6 @@ Github Stats<br/><br/>
 Github Streak<br/><br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=icarusw-code&theme=blueberry)](https://git.io/streak-stats)
 
-![profile 3d](./profile-3d-contrib/profile-night-green.svg)
-
 
 
 
